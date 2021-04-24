@@ -7,7 +7,6 @@ Follow the steps in all 3 sections to ensure all prerequisities are performed to
 * LabVIEW 2020 (Section 1)
 * LabVIEW System Drivers (Section 2)
 * Software GitHUB Reposotory Files (Section 3)
-* Adding Oscilloscope Model (Section 4)
 
 ### Section 1 - Installing LabVIEW 2020
 Install the software using the following link : [LabVIEW 2020](https://www.ni.com/en-gb/support/downloads/software-products/download.labview.html#369643)
@@ -30,3 +29,9 @@ Install the software using the following link : [LabVIEW 2020](https://www.ni.co
 2) Click run on the top left corner to operate the software
 3) Open up the 'User_Manual.pdf' file from the GitHub Repo on how to operate the software and further information
 
+
+### Note
+The following folders/files can be ignored unless needing to revert to a previous version of the software for debugging purposes:
+* XYZ Scanning Software v1.0
+* XYZ Scanning Software v1.1
+* XYZ Scanning Software v1.2
